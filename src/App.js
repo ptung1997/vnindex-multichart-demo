@@ -1,6 +1,6 @@
 import React from "react";
 
-const stocks = ["VIC", "HPG", "VNM", "VCB", "MWG", "SSI"];
+const stocks = ["AAPL", "GOOGL", "TSLA", "MSFT"];
 
 const TradingViewWidget = ({ symbol }) => (
   <div style={{ marginBottom: 40 }}>
